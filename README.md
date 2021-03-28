@@ -1,2 +1,0 @@
-# nazonazo
-Alfred workflow
