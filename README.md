@@ -1,7 +1,6 @@
 ## 　　Lesson17.　Alfred環境変数を使ってカスタマイズ設定を可能とする  
-[サンプル動画]
 
-https://user-images.githubusercontent.com/40127279/126052719-60a720fb-afe0-4483-baf4-0c880d366a23.mp4
+[サンプル動画](https://user-images.githubusercontent.com/40127279/126052719-60a720fb-afe0-4483-baf4-0c880d366a23.mp4)
 
 
 #### 開発メモ
